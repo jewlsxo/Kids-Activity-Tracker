@@ -1,28 +1,20 @@
 //
 //  AppDelegate.swift
-//  Calendar 2.0
+//  Events
 //
-//  Created by Karina Tovar on 4/10/22.
+//  Created by Karina Tovar on 4/8/22.
 //
 
 import UIKit
 
+@main
+class AppDelegate: UIResponder, UIApplicationDelegate {
 
-//class AppDelegate: UIResponder, UIApplicationDelegate {
-//Below Code to fix main issue. In this project we are not using main storyboard. This function ensures the delegate is working and not pulling from storyboard.
-
-    @UIApplicationMain
-    class AppDelegate: UIResponder, UIApplicationDelegate {
-        var window: UIWindow?
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        window = UIWindow()
-        window?.rootViewController = UINavigationController()
-        window?.makeKeyAndVisible()
-        
+        // Override point for customization after application launch.
         return true
-       }
     }
 
     // MARK: UISceneSession Lifecycle
@@ -40,5 +32,5 @@ import UIKit
     }
 
 
-
+}
 
