@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>584567901117-itd716d0q397u2nqrl4lbq8aviphmqej.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.584567901117-itd716d0q397u2nqrl4lbq8aviphmqej</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqklOtwwtByHgjXS2BVs4FKCQ9bf1N7Mw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>584567901117</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.UHCL.Activity-Trackers</string>
+	<key>PROJECT_ID</key>
+	<string>kids-activity-46e6f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kids-activity-46e6f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:584567901117:ios:8d747534b3fab3e071a0d4</string>
+</dict>
+</plist>
